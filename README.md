@@ -11,6 +11,11 @@
 
 - 📫 How to reach me **shanmishra884@gmail.com**
 
+-  😄 Pronouns: he/him
+
+- ⚡ Fun fact: I am really into Trekking.
+
+- 🤔 I’m looking for help with being more productive during the pandemic. 
 
 <br>
 <p align="center">
@@ -38,8 +43,10 @@
   </a>
 </h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanu-mishraa&show_icons=true&locale=en&layout=compact" alt="shantanu-mishraa" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanu-mishraa&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="shantanu-mishraa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu-mishraa&" alt="shantanu-mishraa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu-mishraa&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="shantanu-mishraa" /></p>
+
 
 
