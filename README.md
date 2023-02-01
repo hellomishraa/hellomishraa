@@ -13,7 +13,7 @@
 
 -  😄 Pronouns: he/him
 
-- ⚡ Fun fact: I am really into Trekking.
+- ⚡ Fun fact: I love Sleeping.
 
 - 🤔 I’m looking for help with being more productive during the pandemic. 
 
