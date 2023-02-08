@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently into **Machine learning**
 
 - 💬 Ask me about **ML,DSA and Competitive Coding**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I love Sleeping.
 
-- 🤔 I’m looking for help with being more productive during the pandemic. 
+- 🤔 I’m looking to interact with the people who are into **Mathematical Research**. 
 
 <br>
 <p align="center">
