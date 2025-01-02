@@ -5,9 +5,7 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🌱 I’m currently into **Machine learning**
-
-- 💬 Ask me about **ML,DSA and Competitive Coding**
+- 🌱 I’m currently into **Machine learning**, **Deep Learning** and **Data Science**
 
 - 📫 How to reach me **shanmishra884@gmail.com**
 
@@ -15,7 +13,7 @@
 
 - ⚡ Fun fact: I love Sleeping.
 
-- 🤔 I’m looking to interact with the people who are into **Mathematical Research**. 
+- 🤔 I’m looking to interact with the people who are into **Data Science and Research**. 
 
 <br>
 <p align="center">
